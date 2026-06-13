@@ -10,9 +10,12 @@ End-to-end analysis of the Olist Brazilian E-Commerce dataset using SQL, Python,
 - GitHub
 
 ## Project Files
-- SQL Analysis Report: `Olist_SQL_Analysis_Report.pdf`
+
+- SQL Analysis Report: `Olist Brazilian E-commerce SQL Analysis.pdf`
 - Python Notebook: `Brazilian_E_commerce_by_Olist.ipynb`
 - Python HTML Report: `Brazilian_E_commerce_by_Olist.html`
+- Tableau Dashboard (PDF): `Tableau Dashboard.pdf`
+- Tableau Dashboard (Image): `Tableau Dashboard.png``
 
 ## Key Insights
 - São Paulo generated the highest revenue and order volume.
@@ -30,6 +33,10 @@ End-to-end analysis of the Olist Brazilian E-Commerce dataset using SQL, Python,
 
 ## Tableau Dashboard
 [Brazilian E-commerce by Olist Dashbord ](https://public.tableau.com/app/profile/eeeshant.chettry/viz/OlistBrazilianE-CommercePerformanceDashboard/Dashboard1)
+
+## Tableau Dashboard Preview
+
+![Olist Dashboard](Tableau%20Dashboard.png)
 
 ## Created By
 Eshant Kumar Chettry
