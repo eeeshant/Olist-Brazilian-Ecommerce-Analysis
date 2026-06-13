@@ -36,7 +36,7 @@ End-to-end analysis of the Olist Brazilian E-Commerce dataset using SQL, Python,
 
 ## Tableau Dashboard Preview
 
-![Olist Dashboard](Olist%20Dashboard.png)
+![Olist Dashboard](Olist_Dashboard.png)
 
 ## Created By
 Eshant Kumar Chettry
